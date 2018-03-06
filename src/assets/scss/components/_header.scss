@@ -1,0 +1,12 @@
+.c-header {
+  text-align: center;
+}
+
+.c-header__link {
+
+  color: black;
+
+  &:hover {
+    color: gray;
+  }
+}
