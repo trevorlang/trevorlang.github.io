@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 const Header = () => (
-  <header className="l-header c-header">
+  <header className="l-header">
     <div className="l-header__container">
       <h1 className="c-masthead__heading">
         <Link

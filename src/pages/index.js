@@ -3,9 +3,9 @@ import Link from 'gatsby-link'
 
 const IndexPage = () => (
   <div>
-    <h1>Hi people</h1>
-    <p>Welcome to my new Gatsby site.</p>
-    <Link to="/page-2/">Go to page 2</Link>
+    <h1>Hello there, friend!</h1>
+    <p>My name is Trevor Lang. I am a Front End Developer based out of Denver, Colorado.</p>
+    <a href="https://github.com/trevorlang/">Check me out on GitHub!</a>
   </div>
 )
 
