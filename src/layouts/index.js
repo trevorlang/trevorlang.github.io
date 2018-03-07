@@ -5,7 +5,10 @@ import Helmet from 'react-helmet'
 import Footer from '../components/Footer'
 import Header from '../components/Header'
 
+import hero from '../assets/images/home/hero_large.jpg'
 import '../assets/scss/main.scss'
+
+console.log(hero)
 
 const TemplateWrapper = ({ children }) => (
   <div className="l-wrapper">
